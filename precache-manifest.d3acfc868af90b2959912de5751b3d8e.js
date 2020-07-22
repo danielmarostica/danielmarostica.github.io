@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ade7df545a9d34d297e892b2fe7f346c",
+    "revision": "a3698faae48f142462df38e8f9beeef1",
     "url": "danielmarostica.github.io/index.html"
   },
   {
-    "revision": "3e1641ebdbffb1302508",
+    "revision": "435262e3defbf1def033",
     "url": "danielmarostica.github.io/static/css/main.abbb8448.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "danielmarostica.github.io/static/js/2.dbc7e9e0.chunk.js"
   },
   {
-    "revision": "3e1641ebdbffb1302508",
-    "url": "danielmarostica.github.io/static/js/main.af485cef.chunk.js"
+    "revision": "435262e3defbf1def033",
+    "url": "danielmarostica.github.io/static/js/main.12392f60.chunk.js"
   },
   {
     "revision": "87e22f03433465f893ef",
