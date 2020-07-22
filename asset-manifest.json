@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "danielmarostica.github.io/static/css/main.abbb8448.chunk.css",
-    "main.js": "danielmarostica.github.io/static/js/main.357648eb.chunk.js",
-    "main.js.map": "danielmarostica.github.io/static/js/main.357648eb.chunk.js.map",
+    "main.js": "danielmarostica.github.io/static/js/main.af485cef.chunk.js",
+    "main.js.map": "danielmarostica.github.io/static/js/main.af485cef.chunk.js.map",
     "runtime-main.js": "danielmarostica.github.io/static/js/runtime-main.5cdb5866.js",
     "runtime-main.js.map": "danielmarostica.github.io/static/js/runtime-main.5cdb5866.js.map",
     "static/js/2.dbc7e9e0.chunk.js": "danielmarostica.github.io/static/js/2.dbc7e9e0.chunk.js",
     "static/js/2.dbc7e9e0.chunk.js.map": "danielmarostica.github.io/static/js/2.dbc7e9e0.chunk.js.map",
     "index.html": "danielmarostica.github.io/index.html",
-    "precache-manifest.88c10bccba41f0fcc42e86656d7b7d77.js": "danielmarostica.github.io/precache-manifest.88c10bccba41f0fcc42e86656d7b7d77.js",
+    "precache-manifest.987421cd95068afd14aee1b37fd1ab8f.js": "danielmarostica.github.io/precache-manifest.987421cd95068afd14aee1b37fd1ab8f.js",
     "service-worker.js": "danielmarostica.github.io/service-worker.js",
     "static/css/main.abbb8448.chunk.css.map": "danielmarostica.github.io/static/css/main.abbb8448.chunk.css.map",
     "static/media/index.css": "danielmarostica.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -53,6 +53,6 @@
     "static/js/runtime-main.5cdb5866.js",
     "static/js/2.dbc7e9e0.chunk.js",
     "static/css/main.abbb8448.chunk.css",
-    "static/js/main.357648eb.chunk.js"
+    "static/js/main.af485cef.chunk.js"
   ]
 }
